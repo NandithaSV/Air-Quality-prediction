@@ -16,12 +16,12 @@ Need to be download these Modules
 * In this project , C6H6 is used as target feature.since it is of type numerical , Regression models are applied
 * The highest r2 score model will be considered as best fit model for a given dataset
 * Steps to be followed : 
-      * importing libraries
-      * pre-processing : taking info about dataset , removing null values 
-      * visualization : plotting  different types of graph , finding correlation among dataset
-      * Splitting the dataset into train and test
-      * Feature scaling
-      * Applying Linear ligression, KNN regressor and Decision Tree Regrossor and finding r2 score
+* importing libraries
+* pre-processing : taking info about dataset , removing null values 
+* visualization : plotting  different types of graph , finding correlation among dataset
+* Splitting the dataset into train and test
+* Feature scaling
+* Applying Linear ligression, KNN regressor and Decision Tree Regrossor and finding r2 score
  
 ---
 
